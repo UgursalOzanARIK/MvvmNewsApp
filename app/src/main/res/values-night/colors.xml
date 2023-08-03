@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="newsDetailColor">#FFFFFF</color>
+    <color name="bgColor">#111111</color>
+    <color name="textViewTitleColor">#FFFFFF</color>
+    <color name="tabLayoutColor">#FFFFFF</color>
+    <color name="tabIndicatorColor">#29A81F</color>
+    <color name="viewColor">#FFFFFF</color>
+    <color name="bottomNavBarIndicator">#FFFFFF</color>
+    <color name="bottomNavBarColor">#111111</color>
+    <color name="tabBackGroundColor">#111111</color>
+    <color name="tabTextColor">#FFFFFF</color>
+    <color name="tabSelectedTextColor">#415BBC</color>
+
+
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_BreakingNews"
+        android:icon="@drawable/baseline_electric_bolt_24"
+        android:title="Breaking News" />
+    <item
+        android:id="@+id/action_SavedNews"
+        android:icon="@drawable/baseline_save_24"
+        android:title="Saved News" />
+</menu>
